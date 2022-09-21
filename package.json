@@ -1,16 +1,17 @@
 {
-  "name": "@uniswap/v2-sdk",
+  "name": "@powswap/sdk",
   "license": "MIT",
   "version": "3.0.1",
-  "description": "🛠 An SDK for building applications on top of Uniswap V2",
+  "description": "🛠 An SDK for building applications on top of Powswap",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
   "files": [
     "dist"
   ],
-  "repository": "https://github.com/Uniswap/uniswap-v2-sdk.git",
+  "repository": "https://github.com/powswap/powswap-v2-sdk.git",
   "keywords": [
-    "uniswap",
+    "powswap",
+    "ethereum-pow",
     "ethereum"
   ],
   "module": "dist/v2-sdk.esm.js",
